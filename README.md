@@ -80,11 +80,41 @@ An exploratory data analysis of unemployment in India from **May 2019 to June 20
 
 ## Visualizations
 
-Charts are saved in the `images/` folder.
+### National trend and regional patterns
 
-![National unemployment trend](images/national_trend.png)
-![Unemployment by Covid-19 phase](images/covid_phases.png)
-![State-wise heatmap](images/state_heatmap.png)
+![National unemployment trend](images/1.png)
+*Average unemployment rate in India, with the lockdown start marked.*
+
+![Top 10 states by average unemployment](images/2.png)
+*Top 10 states by average unemployment rate.*
+
+![Rural vs urban unemployment over time](images/3.png)
+*Rural vs urban unemployment over time.*
+
+### Covid-19 impact
+
+![Unemployment by Covid-19 phase](images/4.png)
+*Average unemployment rate by Covid-19 phase.*
+
+![Rural vs urban by Covid-19 phase](images/5.png)
+*Rural vs urban unemployment by Covid-19 phase.*
+
+![Worst-hit states](images/6.png)
+*The 10 worst-hit states: pre-Covid vs lockdown peak.*
+
+![State-wise heatmap](images/7.png)
+*Unemployment rate by state and month.*
+
+### Employment, seasonality and spread
+
+![Employment and labour participation](images/8.png)
+*Total estimated employed and average labour participation rate.*
+
+![Pre-Covid seasonality check](images/9.png)
+*Pre-Covid monthly unemployment (seasonality check).*
+
+![State-wise spread, pre-Covid vs peak](images/10.png)
+*Spread of state-wise unemployment: pre-Covid vs lockdown peak.*
 
 ## How to Run
 
